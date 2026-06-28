@@ -7,4 +7,4 @@
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
-![Blender]#E87D0D
+[https://img.shields.io/badge/](https://img.shields.io/badge/)[Text]-[#E87D0D]?style=for-the-badge&logo=[Blender]&logoColor=white
