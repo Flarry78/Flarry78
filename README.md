@@ -36,6 +36,5 @@ Since the IT landscape is vast and I want to stay flexible for the job market, m
 ---
 
 ## 🎓 Verified Certifications
-* **NDG Linux Unhatched** (Cisco Networking Academy)
-* **Create a Simple Network** (Cisco Packet Tracer)
+
 * 👉 *Check out my [Badges & Certificates Repo](./Badges_-_Certificates) to see all official verification IDs!*
