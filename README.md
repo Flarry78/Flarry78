@@ -37,4 +37,4 @@ Since the IT landscape is vast and I want to stay flexible for the job market, m
 
 ## 🎓 Verified Certifications
 
-* 👉 *Check out my [Badges & Certificates Repo](../Badges_-_Certificates) to see all official verification IDs!*
+* 👉 *Check out my [Badges & Certificates Repo](https://github.com/Flarry78/Badges_-_Certificates) to see all official verification IDs!*
