@@ -9,12 +9,12 @@ While I’ve been a PC enthusiast all my life—building my own rigs, troublesho
 ## 🚀 My Journey & Core Focus Areas
 
 ### 🎮 Software & Game Development
-* **<img src="./github_readme_assets/godot.svg" height="20" />:** This is where my programming journey truly began. I started building small games to understand logic, object-oriented concepts, and clean code.
-* **SQL & <img src="./github_readme_assets/python.svg" height="20" />):** To master relational databases, I started building a **Pokémon Bank project**, using it as a practical way to learn database schemas, structures, and complex SQL queries.
+* **<img src="./github_readme_assets/godot.svg" height="20" />** This is where my programming journey truly began. I started building small games to understand logic, object-oriented concepts, and clean code.
+* **<img src="./github_readme_assets/mysql.svg" height="20" /> <img src="./github_readme_assets/python.svg" height="20" />** To master relational databases, I started building a **Pokémon Bank project**, using it as a practical way to learn database schemas, structures, and complex SQL queries.
 
 ### 🌐 Infrastructure, Networks & Security
-* **<img src="./github_readme_assets/linux.svg" height="20" />:** I actively manage an **Ubuntu VM** to dive deep into terminal navigation, user management, and system administration.
-* **Networking (Cisco):** I recently discovered Cisco and am currently utilizing **Cisco Packet Tracer** to design, simulate, and understand network topologies.
+* **<img src="./github_readme_assets/linux.svg" height="20" />** I actively manage an **Ubuntu VM** to dive deep into terminal navigation, user management, and system administration.
+* **<img src="./github_readme_assets/cisco.svg" height="20" />** I recently discovered Cisco and am currently utilizing **Cisco Packet Tracer** to design, simulate, and understand network topologies.
 * **Gamified Learning:** I love sharpening my skills via platforms like **FreeCodeCamp** and security/wargame challenges like **OverTheWire**.
 
 ---
