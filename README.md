@@ -2,7 +2,7 @@
 
 I am an aspiring **Systems Integrator** currently doing a professional retraining program (*Umschulung zum Fachinformatiker für Systemintegration*). 
 
-While I’ve been a PC enthusiast all my life—building my own rigs, troubleshooting hardware, or simply exploring things—my true journey into deep computer science started towards the end of 2024. That's when I decided to deepen my technical skills and started learning programming logic by developing small games in Godot.
+While I’ve been a PC enthusiast all my life, building my own rigs, troubleshooting hardware, or simply exploring things. My true journey into deep computer science started towards the end of 2024. That's when I decided to deepen my technical skills and started learning programming logic by developing small games in Godot. From there, I quickly expanded my focus toward core infrastructure topics, diving into Linux system, SQL databases, and network architecture.
 
 Since then, I’ve been driven by continuous learning and building a rock-solid IT foundation.
 
