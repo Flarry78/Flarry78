@@ -18,7 +18,7 @@ Since then, I’ve been driven by continuous learning and building a rock-solid 
   <img src="./github_readme_assets/cisco.svg" height="25" alt="Cisco" />
 </p>
 
-My main focus is continuously expanding my technical knowledge across core IT fields, including **Linux**, **SQL**, **networking fundamentals**, and **programming**. 
+My main focus is continuously expanding my technical knowledge across core IT fields. 
 
 I regularly work through various courses and interactive learning platforms like **OverTheWire**, **freeCodeCamp**, or **Cisco Networking Academy**. Alongside this, I maintain a few personal projects that I develop step by step based on priority and available time. I prefer to take as much time as necessary to truly master a topic rather than rushing through it.
 
