@@ -11,11 +11,11 @@ Since then, I’ve been driven by continuous learning and building a rock-solid 
 ## My Journey & Core Focus Areas
 
 <p align="center">
+  <img src="./github_readme_assets/linux.svg" height="25" alt="Linux" /> &nbsp;
+  <img src="./github_readme_assets/cisco.svg" height="25" alt="Cisco" />
   <img src="./github_readme_assets/godot.svg" height="25" alt="Godot" /> &nbsp;
   <img src="./github_readme_assets/python.svg" height="25" alt="Python" /> &nbsp;
   <img src="./github_readme_assets/mysql.svg" height="25" alt="MySQL" /> &nbsp;
-  <img src="./github_readme_assets/linux.svg" height="25" alt="Linux" /> &nbsp;
-  <img src="./github_readme_assets/cisco.svg" height="25" alt="Cisco" />
 </p>
 
 My main focus is continuously expanding my technical knowledge across core IT fields. 
